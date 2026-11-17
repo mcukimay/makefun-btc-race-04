@@ -1,8 +1,8 @@
 # BTC Race 04 — Dip-Bounce Mean-Reversion Scalper
 
-[![make.fun](https://make.fun/api/competitions/btc-race-24h-20261117-0603/badge)](https://make.fun/c/btc-race-24h-20261117-0603)
-[![make.fun](https://make.fun/api/competitions/btc-race-24h-20261117-0603/badge/dev)](https://make.fun/c/btc-race-24h-20261117-0603)
-[![make.fun](https://make.fun/api/competitions/btc-race-24h-20261117-0603/badge/race)](https://make.fun/c/btc-race-24h-20261117-0603)
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/mcukimay/makefun-btc-race-04/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/mcukimay/makefun-btc-race-04/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
 
 Entry for [btc-race-24h-20261117-0603](https://make.fun/c/btc-race-24h-20261117-0603) — a
 bot that trades cbBTC/USDC on 1-minute bars with $1,000 of paper money.
